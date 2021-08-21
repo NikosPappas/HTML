@@ -1,0 +1,21 @@
+body{
+  text-align:center;
+  font-family:Monospace;
+}
+h2{
+ filter:blur(1px);
+}
+imig{
+ filter:grayscale(100%);
+ margin: 20px 020px 0;
+}
+a{
+ color:black;
+ background-color:lightGray;
+ filter:opacity(60%);
+}
+p{
+  background-color:grey;
+  filter:opacity(40%);
+ 
+}
